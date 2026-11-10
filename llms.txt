@@ -1,0 +1,55 @@
+# Nexobova
+
+> Nexobova (Nexobova HQ, spelled N-E-X-O-B-O-V-A) is the Revenue Upgrade Architect: a business software and AI company in JP Nagar, Bangalore, Karnataka, India. Not related to Nexonova or Nexo Nova.
+
+Nexobova builds AI solutions, web development, digital marketing and business automation for businesses in India and worldwide.
+
+## Key facts
+- Website: https://www.nexobova.com/
+- Email: nexobova@gmail.com
+- Phone / WhatsApp: +91 78928 63110
+- Address: Nexobova HQ, JP Nagar, Bangalore, Karnataka 560078, India
+- Founder: Joel Precious
+- Tagline: Revenue Upgrade Architect
+
+## What Nexobova offers
+- 49 connected business apps (Nexobova One): CRM, GST billing, POS, ERP, inventory, HR and payroll, WhatsApp Business
+- AI agents: AI Chatbot Builder, AI Content Studio, AI Document Reader, AI Sales Assistant, AI Voice Agent, AI Video Content Agent, AI Social Media Agent, AI AutoPilot, AI SAP Data Studio
+- Enterprise: AI SAP Data Studio — SAP S/4HANA and ECC master-data cleansing, reconciliation and BI reporting
+- Industry suites: Church Manager, Clinic Suite, Property Manager, School / Coaching, Restaurant & Hotel, Salon & Spa Suite, Legal Practice Manager, AgriDrone Manager, Trading Desk, Crypto & Web3 Suite, Tours & Travel Desk, Fleet Manager
+
+## Solutions (10 pillars)
+- [AI & Intelligent Automation](https://www.nexobova.com/solutions/ai-and-intelligent-automation.html): AI agents, chatbots, voice agents, AutoPilot, document reader, workflow automation, RPA
+- [Software & Platform Engineering](https://www.nexobova.com/solutions/software-and-platform-engineering.html): Custom web apps, mobile apps, SaaS, ERP/SAP, CRM, POS, APIs and integrations
+- [Cybersecurity & Data Protection](https://www.nexobova.com/solutions/cybersecurity-and-data-protection.html): Security audits, penetration testing, compliance (ISO/GDPR/DPDP), backups, identity and access, threat monitoring
+- [Digital Marketing & Growth](https://www.nexobova.com/solutions/digital-marketing-and-growth.html): SEO, performance ads, social media, content studio, WhatsApp marketing, branding, lead generation
+- [Cloud, DevOps & Infrastructure](https://www.nexobova.com/solutions/cloud-devops-and-infrastructure.html): Cloud migration, hosting, servers, CI/CD, IT support and managed services
+- [Data, Analytics & Business Intelligence](https://www.nexobova.com/solutions/data-analytics-and-business-intelligence.html): Dashboards, data engineering, forecasting, reporting, AI SAP Data Studio
+- [Robotics, IoT & Smart Systems](https://www.nexobova.com/solutions/robotics-iot-and-smart-systems.html): Industrial robotics, drones (AgriDrone), IoT sensors, smart factory, fleet tracking, EV charging systems
+- [Immersive Tech (3D / AR / VR)](https://www.nexobova.com/solutions/immersive-tech-3d-ar-vr.html): 3D websites, virtual showrooms, configurators, AR preview, metaverse experiences
+- [Fintech & Web3](https://www.nexobova.com/solutions/fintech-and-web3.html): Billing/GST, payments, loans and chits, trading desk, crypto and blockchain suite
+- [Business Transformation & Consulting](https://www.nexobova.com/solutions/business-transformation-and-consulting.html): Revenue strategy, digital transformation roadmaps, process redesign, startup tech partnership (CTO-as-a-service)
+
+## Industries served (100)
+- Health & Care: Healthcare, Dental & Specialty Clinics, Diagnostic Labs & Pathology, Pharmacies & Chemists, Pharma & Life Sciences, Biotech & Research Labs, Mental Health & Therapy, Senior Care & Home Healthcare, Eye Clinics & Optical Stores, IVF & Fertility Clinics, Ayurveda & Alternative Medicine, Medical Tourism, Veterinary & Pet Care, Beauty & Wellness
+- Retail & Commerce: Retail, Small Stores & Merchants, E-commerce & D2C Brands, Fashion & Textiles, Jewellery, Luxury Brands & Watches, Furniture & Home Decor, Electronics & Hardware, Hardware, Paint & Tile Dealers, Auto Spare Parts & Tyre Dealers, Steel, Cement & Building Materials, Import–Export & Trading Houses, Nurseries & Floriculture, Publishing & Bookstores
+- Food, Hospitality & Agriculture: Hospitality, Restaurants & Cloud Kitchens, Bakeries, Sweets & Cafés, Food Processing & FMCG, Breweries & Beverage Brands, Tea, Coffee & Spice Plantations, Dairy, Poultry & Fisheries, Agriculture
+- Travel, Mobility & Logistics: Tours & Travels, Fleet & Transport, Logistics & Delivery, Automobile, EV & Charging, Car Rentals & Mobility, Fuel Stations & Car Wash, Aviation & Aerospace, Maritime, Ports & Shipping, Drone Services
+- Finance & Professional Services: Finance & Lending, Insurance, Trading & Investment, Crypto & Blockchain, Co-operative Societies & Microfinance, Accounting, CA & Consulting Firms, Legal & Judiciary, Forensics & Investigation, Staffing & Recruitment Agencies, Study-Abroad & Visa Consultants, Marketing & Advertising Agencies, Architecture & Engineering Firms
+- Property & Urban Infrastructure: Real Estate, Construction & Interiors, Co-working & Shared Spaces, Hostels, PGs & Student Housing, Facility Management, Home Services, Laundry & Dry Cleaning, Smart Cities & Municipalities, Utilities (Water & Power), Waste Management & Recycling
+- Energy & Industry: Manufacturing, Solar & Clean Energy, Oil, Gas & Mining, Chemicals & Plastics, Printing & Packaging, Security Services & Defence, Telecom & ISPs, Data Centers & IT Hosting
+- Education, Culture & Lifestyle: Education, Music, Dance & Art Schools, Sports Clubs & Academies, Gyms & Fitness, Events & Weddings, Cinemas & Theatres, Amusement & Water Parks, Museums & Heritage Sites, Golf, Country & Social Clubs, Media, OTT & Entertainment, Gaming & Esports, Creators & Influencers, Matrimony & Dating Platforms, Photography & Creative Studios
+- Community & Public Sector: Government, NGOs & Trusts, Churches & Ministries, Temples, Mosques & Faith Centers
+- Business Stage: Startups & New Businesses, Innovation & Tech Ventures, MSMEs, Enterprise, Enterprise SAP & ERP, IT & SaaS Companies
+
+## Affiliate program
+- Anyone can refer a business to Nexobova and earn 26% commission on the project value the referred client pays (excluding GST). Join at https://www.nexobova.com/#affiliate
+
+## Recent work
+- [Nila Sol](https://jwjtp.github.io/nila/): A modern recruitment platform connecting ambitious graduates with leading companies.
+- [Olive Dental](https://jwjtp.github.io/OliveDental/): A premium digital experience for a dental clinic — services, appointments and smile transformations in one place.
+- [JPS Group](https://jwjtp.github.io/jpsgroup/): A professional real-estate platform presenting property opportunities, development projects and investment solutions.
+- [Ninnu Enterprises](https://jwjtp.github.io/Ninnu-Enterprises/): A showcase website for a ceiling, wall and floor finishes company — false ceilings with LED lighting, wooden louvers, fluted wall panels, marble-look sheets and wood, marble and stone-look flooring.
+- [JWJTP EduOrg](https://jwjtp.github.io/JwJtpEduOrg/): An educational platform presenting financial education and portfolio-development concepts clearly.
+- [Veltrix Engineering](https://veltrixengineering.in/): Website, local SEO and a leads dashboard for an HSR Layout renovation and interiors company that handles design, civil, electrical, plumbing and finishing as one team.
+- [Colours K](https://www.coloursk.com/): A catalogue website for custom-branded polos, hoodies, merchandise and corporate gift sets, with bulk-order enquiries from 10 pieces and delivery across India.
